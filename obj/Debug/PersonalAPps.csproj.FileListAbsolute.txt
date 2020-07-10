@@ -1,0 +1,5 @@
+C:\Users\Alexb\source\repos\PersonalAPps\obj\Debug\PersonalAPps.csprojAssemblyReference.cache
+C:\Users\Alexb\source\repos\PersonalAPps\obj\Debug\PersonalAPps.Form1.resources
+C:\Users\Alexb\source\repos\PersonalAPps\obj\Debug\PersonalAPps.Properties.Resources.resources
+C:\Users\Alexb\source\repos\PersonalAPps\obj\Debug\PersonalAPps.csproj.GenerateResource.cache
+C:\Users\Alexb\source\repos\PersonalAPps\obj\Debug\PersonalAPps.csproj.CoreCompileInputs.cache
